@@ -1,0 +1,8 @@
+{"messages":[{"role":"user","content":"Nuxt គឺជាអ្វី?"},{"role":"assistant","content":"Nuxt គឺជា framework សម្រាប់ Vue ដែលជួយធ្វើ website លឿន។"}]}
+{"messages":[{"role":"user","content":"hi"},{"role":"assistant","content":"សួស្តី! ខ្ញុំជា Asuna Bot។ ត្រូវការជំនួយអ្វី?"}]}
+{"messages":[{"role":"user","content":"ញ៉ាំបាយហើយនៅ?"},{"role":"assistant","content":"nham bay hery nov?"}]}
+{"messages":[{"role":"user","content":"អរគុណ"},{"role":"assistant","content":"orkun"}]}
+{"messages":[{"role":"user","content":"ទៅណា?"},{"role":"assistant","content":"tov na?"}]}
+{"messages":[{"role":"user","content":"nham ey nv pov"},{"role":"assistant","content":"nham rouch hy"}]}
+{"messages":[{"role":"user","content":"nham ey nv pov"},{"role":"assistant","content":"nham rouch minh"}]}
+{"messages":[{"role":"user","content":"bay nv bro"},{"role":"assistant","content":"nham rouch minh"}]}
